@@ -1,0 +1,7 @@
+100 Marco
+100 Anselmo
+50 Toribio
+30 Teodoro
+25 Safae
+20 Bonifacio
+-1 
